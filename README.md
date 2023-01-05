@@ -2,13 +2,6 @@
 ## Hi there, I'm Silinda Mduduzi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ### Python Dev | Data Scientist |  DevOps 
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;
-    Graduate Software Developer,;
-    Aspiring Asp.net Core And React Full Stack Developer,;
-    Aspiring React Front-End-Developer,;
-    Aspiring C# Back-End-Developer"></a>
-</p>
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -16,7 +9,7 @@ I want to make difference and willing to work hard for skillful career rather th
 <br>
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
 
-- 🔭 I’m currently working on ad  as Data Insights
+- 🔭 I’m currently working on ad [ada-asia](https://ada-asia.com/) as Data Insights
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on PySpark
 - 🤔 I’m looking for help with Data Engineering stuff
