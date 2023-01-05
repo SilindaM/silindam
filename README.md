@@ -13,8 +13,6 @@ I’m a Graduate developer who has passion for building clean web applications w
 - 🌱 I’m currently using React TypeScript to build Front-end UI
 - 👯 I’m  currently using MySQL for Database Management
 - 🤔 I’m  currently using Bootstrap for styling Front-end UI
-- 💬 I'm interested in Junior/Entry level 
-- 📫 How to reach me: [zahid_sc@hotmail.fr](zahid_sc@hotmail.fr)
 
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Facebook"/>](https://www.facebook.com/zahid.uan/)
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Uannabi on LinkedIn"/>](https://www.linkedin.com/in/animus/) 
