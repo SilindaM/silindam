@@ -14,14 +14,6 @@ I’m a Graduate developer who has passion for building clean web applications w
 - 👯 I’m  currently using MySQL for Database Management
 - 🤔 I’m  currently using Bootstrap for styling Front-end UI
 
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Facebook"/>](https://www.facebook.com/zahid.uan/)
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Uannabi on LinkedIn"/>](https://www.linkedin.com/in/animus/) 
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Stackoverflow"/>](https://stackoverflow.com/users/7875250/zahid-uan-nabi)
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/twitter-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Twitter"/>](https://twitter.com/uan_nabi)
-
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
