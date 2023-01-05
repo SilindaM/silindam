@@ -1,5 +1,5 @@
 
-## Hi there, I'm Silinda Mduduzi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## Hi there, I'm Silinda Mduduzi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> I'm interested in Junior/Entry level developer positions.
 ### Graduate Software Developer | Aspiring Full Stack Developer 
 
 
@@ -9,11 +9,11 @@ I’m a Graduate developer who has passion for building clean web applications w
 <br>
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
 
-- 🔭 I’m currently working on ad [ada-asia](https://ada-asia.com/) as Data Insights
-- 🌱 I’m currently learning Deep learning
-- 👯 I’m looking to collaborate on PySpark
-- 🤔 I’m looking for help with Data Engineering stuff
-- 💬 Ask me about Python
+- 🔭 I’m currently using Asp.net Core to build Web Apis
+- 🌱 I’m currently using React TypeScript to build Front-end UI
+- 👯 I’m  currently using MySQL for Database Management
+- 🤔 I’m  currently using Bootstrap for styling Front-end UI
+- 💬 I'm interested in Junior/Entry level 
 - 📫 How to reach me: [zahid_sc@hotmail.fr](zahid_sc@hotmail.fr)
 
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Facebook"/>](https://www.facebook.com/zahid.uan/)
