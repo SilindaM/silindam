@@ -54,38 +54,3 @@ I’m a Graduate developer who has passion for building clean web applications w
  [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim) 
  [<img alt="Github" src="https://img.shields.io/badge/Phonepe-54039A.svg?&style=for-the-badge&logo=Phonepe&logoColor=white" />](https://twitter.com/CreativeTim) 
 
-
-
-
-###  <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/google_cloud-ar21.svg"> </code>
-<p align="Center">
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_maps.svg"> </code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_bigquery.svg"> </code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_admob.svg"> </code>
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-</p>
-
-### <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
-
-
-<strong>🔭 you can start from here ...</strong>
-
-<a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
-<a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
-
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<hr>
-
-<p align="center">
-<summary>:zap: Github Stats</summary>
-
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true" />
-</p>
-
------
-Credits: [uannabi](https://github.com/uannabi)
-
-Last Edited on: 19/11/2020
