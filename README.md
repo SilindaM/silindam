@@ -9,10 +9,11 @@ I’m a Graduate developer who has passion for building clean web applications w
 <br>
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
 
-- 🔭 I’m currently using Asp.net Core to build Web Apis
-- 🌱 I’m currently using React TypeScript to build Front-end UI
-- 👯 I’m  currently using MySQL for Database Management
-- 🤔 I’m  currently using Bootstrap for styling Front-end UI
+### Hobbies
+
+  🏔. Hobby 1 (Computer Games)  
+ 📚. Hobby 2 (Reading)  
+ 💻. Hobby 3 (Programming)
 
 ### Languages
 
