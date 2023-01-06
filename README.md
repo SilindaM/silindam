@@ -11,7 +11,7 @@ I’m a Graduate developer who has passion for building clean web applications w
 
 ### Hobbies
 
-  🏔. Hobby 1 (Computer Games)  
+  🏔. Hobby 1 (Exploring Nature)  
  📚. Hobby 2 (Reading)  
  💻. Hobby 3 (Programming)
 
