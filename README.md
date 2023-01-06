@@ -53,7 +53,6 @@ I’m a Graduate developer who has passion for building clean web applications w
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=black" />](https://github.com/creativetimofficial)
  [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim) 
  [<img alt="Github" src="https://img.shields.io/badge/Phonepe-54039A.svg?&style=for-the-badge&logo=Phonepe&logoColor=white" />](https://twitter.com/CreativeTim) 
- ![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)
 
 
 
