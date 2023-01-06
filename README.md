@@ -19,6 +19,7 @@ I’m a Graduate developer who has passion for building clean web applications w
 <table>
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1-225993.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
       <td><img src="https://camo.githubusercontent.com/91c7c8fed6e4e9ccbb25bc941030bc604ea787c09ca2569377ed4d4840872a73/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6a71756572792d372d313137353135322e706e67?raw=true" width="200"></td>
