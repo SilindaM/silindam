@@ -2,21 +2,16 @@
 ## Hi there, I'm Silinda Mduduzi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 ### Looking for Junior/Entry Level Full Stack Position (Asp.net & React)
 
-
-<!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 I’m a Graduate developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
 <br>
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
 
 ### Hobbies
 
-  🏔. Hobby 1 (Exploring Nature)  
- 📚. Hobby 2 (Reading)  
- 💻. Hobby 3 (Programming)
+  🏔 Exploring Nature
+ 📚 Reading
+ 💻 Programming
  
-
-
 ### Languages
 
 <p>
