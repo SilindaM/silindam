@@ -48,7 +48,7 @@ I’m a Graduate developer who has passion for building clean web applications w
 ### My Contributions
 
 <p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/SilindaM/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
