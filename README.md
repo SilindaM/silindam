@@ -47,16 +47,12 @@ I’m a Graduate developer who has passion for building clean web applications w
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim) [<img alt="Github" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://twitter.com/CreativeTim)
+ [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim) [<img alt="Github" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://twitter.com/CreativeTim)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial)
 [<img alt="Github" src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://twitter.com/CreativeTim)
 [<img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://twitter.com/CreativeTim)
 
 
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
 
 
 ###  <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/google_cloud-ar21.svg"> </code>
