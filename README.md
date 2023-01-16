@@ -45,7 +45,7 @@ I’m a Graduate developer who has passion for building clean web applications w
 ### Contact Me
 
 [<img alt="Github" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox?compose=new)
-[<img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mduduzi-mduduzi-55989a116/)
+[<img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  />](https://www.linkedin.com/in/mduduzi-mduduzi-55989a116/)
 [<img alt="Github" src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/27818191893)
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/silindaM)
 
